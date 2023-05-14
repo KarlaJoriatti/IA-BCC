@@ -1,0 +1,1 @@
+Implementação do algoritmo Simulated Annealing para resolver 3-CNF-SAT em Haskell para a disciplina de Inteligência Artificial.
